@@ -1,37 +1,127 @@
-## Welcome to GitHub Pages
+#  AI FOR PHIL: 做哲学可能需要的 AI 基础课
 
-You can use the [editor on GitHub](https://github.com/tquadrivium/phai01/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 1.关于读书会
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+人工智能的理论和应用在迅速发展，深刻改变了当下的知识与实践处境。我们哲学工作者，无论是思考心智与智能、人类主体性等传统哲学的核心问题，还是关注技术治理与社会变迁等直面时代的前沿议题，都很难回避的人工智能的议题，或者希望借助人工智能中的相关理论与方法。
 
-```markdown
-Syntax highlighted code block
+鉴于此，我们一些主要从事哲学的老师和学生，希望对人工智能有更为深入系统的理解，建立关于AI 的基本的现实感。我们秉着共建共享的原则，商量着组建自我教学和学习的社区（Community），以提升相关的知识和技能，利于哲学研究和学习。目前，我们尝试站在哲学从业者角度，设计了一套AI 普及课程。课程的组织方式是自助、互助性质的，实行课程负责人讲授和组员领读结合的方式来具体开展。
 
-# Header 1
-## Header 2
-### Header 3
+这套课程从最为基础的知识开始，以学员友好的方式，循序渐进地展开。为了匹配多样化的学习目的与要求，课程体系将做模块化设置。我们将从基本的知识开始，涉足理论内核，再到各个方面的应用和研究。从计算机视觉到自然语言加工，不同层次，不同方向的知识需求均可配套相应的方案。可以通过个性化组合，形成适配于不同目标的多种教学方案。
 
-- Bulleted
-- List
+我们首期设计的课程是《哲学人工智能基础》《Python 与人工智能》，设计课时数各12共24学时。课程预计将在2 月初通过网络展开，将持续一个学期。视情况，我们将适时推出更多进阶课程。为巩固和应用学习成果，我们在对AI 有了基本的技术现实感之后，可以开展AI相关的哲学研讨。
 
-1. Numbered
-2. List
+我们期待，该课程能从基础开始，配备一个体系化的知识-技能工具箱，并建立基本的技术现实感。理想的结果是，无论是从事人工智能相关哲学议题研究，还是从事其它关于心灵、意识、知识、表征等问题的研究的哲学学者，都能得到启发。
 
-**Bold** and _Italic_ and `Code` text
+- 项目顾问组：廖备水（浙江大学哲学系）、徐英瑾（复旦大学哲学学院）、朱菁（厦门大学）
+- 发起组织： 梅剑华（山西大学哲学社会学学院）、李熙（中南大学哲学系）、李忠伟（浙江大学哲学系）、陆俏颖（北京大学哲学系）、孙骞谦（中央美术学院人文学院）、王球（复旦大学哲学学院）、郁锋（华东师范大学哲学系）、周理乾（上海交通大学哲学系）、詹好（厦门大学哲学系）
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+> **朱菁**：人工智能与哲学历来有着不解之缘，现代人工智能的奠基者图灵的开山之作就发表于哲学期刊 Mind。哲学学者要能够真正介入到由人工智能所引发的各种哲学问题的探讨中，无论是辨析、引申还是质疑和批判，都必须对人工智能的发展历程、基本原理、技术思想和工程实践具有准确而深入的了解，避免不着调、不靠谱的空泛之谈。																																					
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tquadrivium/phai01/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> **徐英瑾**：目下主流人工智能的研究路线，术太多，道太少。跟风太多，创新太少。哲学是能够帮助研究者们打开思路的重要精神资源，而人工智能哲学则是连接人工智能与哲学其他部门的必经通道。 认识到这点，一些主要从事哲学研究的年轻朋友，能够自发地一起来开展人工智能基础理论和技术的学习，并设计了“AI for Philosophy”这个共建项目，这反映了年轻朋友们的虚心，决心和定力。希望该项目能有益于树立关于人工智能和相关技术的基本的实在感，促进我们的哲学和人工智能哲学的研究。对相关问题感兴趣的朋友，不妨参与进来。
+
+
+
+> **廖备水**：人工智能与哲学关系紧密，二者之间共享许多重要概念，比如行动、意识、认识论，甚至自由意志等。这种关系在“强人工智能”研究领域显得尤为重要，其中涉及到信念、推理和规划等抽象而复杂的概念与任务。此外，心灵哲学与人工智能的相关性也很明显，前者研究思维、知识和意识如何与物质世界相联系，而后者则关心如何建立能够思维和行动的计算机程序。通过人工智能哲学的分析，可以弄清人工智能所涉及的重要概念，并建议人工智能从业者什么能做到，什么不能做到。鉴于人工智能与哲学之间的这种关系，哲学工作者在一定程度上了解人工智能的理论和方法，对于从事相关方面的研究一定大有益处。
+
+
+
+## 2.课程内容
+
+### 2.1 PhAI01 哲学人工智能基础
+
+- 简介
+
+  本课程面向机器学习、深度学习零基础的教师与学生。在课程中您将了解并掌握人工智能的基本知识点，并了解机器学习的基本原理及实现方法。
+
+  课程时长：12学时
+
+- 内容
+
+  - 人工智能历史
+  - 人工智能相关概念
+  - 人工智能面临的挑战
+  - 机器学习中的模型
+  - 机器学习中的算法
+  - 线性回归模型
+  - 线性分类模型
+  - 泛线性模型与神经网络
+
+### 2.2 PhAI02 Python与人工智能
+
+- 简介
+
+  本课程面向编程零基础的教师与学生。在课程中您将结合各种案例，了解并掌握Python的使用方法，并尝试使用Python语言进行科学实验、数据分析与开发人工智能程序。
+
+- 内容
+
+  - 关于Python
+  - 使用Python进行计算
+  - Matpotlib的使用
+  - Seaborn的使用
+  - 使用Scikit-learn编写机器学习程序
+  - 线性模型实现
+
+
+
+## 3.课程时间
+
+- PhAI01 哲学人工智能基础
+
+  - 第一次：课程说明与预热		  	2021/02/07	13:00 - 14:30
+  - 第一次：导论1：AI 历史         	  2021/02/17	13:00 - 14:30
+  - 第二次：导论2：概念与挑战		2021/02/21	13:00 - 14:30
+  - 第三次：机器学习中的模型	      2021/02/24	13:00 - 14:30
+  - 第四次：机器学习中的算法	  	2021/02/28	13:00 - 14:30
+  - 第五次：线性模型			             2021/03/03	13:00 - 14:30
+  - 第六次：泛线性模型			         2021/03/07	13:00 - 14:30
+
+- PhAI02 Python与人工智能
+
+  开始时间预计为3月中旬
+
+
+
+## 4.课程进行方式
+
+采用线上学习的形式（微信群+腾讯会议），每次课程包含2个学时（2小时左右）。每次课程包含领读+讨论两个部分，二者的比例为 8 : 2 。
+
+参与成员可以根据以下链接中的课程大纲，领读相应的章节：
+
+http://sanyisishu.com/course/phai01/phai01.html
+
+领读报名链接：
+
+https://shimo.im/sheets/xqPXy9HjWrkVJ88q/MODOC/ 
+
+
+
+## 5.加入方式
+
+目前只开放《PhAI01 哲学人工智能基础》课程的报名
+
+通过下方链接，填写报名表单进行报名：
+
+https://wj.qq.com/s2/7967415/8361/
+
+也可扫描下方二维码，填写报名表单进行报名：
+
+![1](.\img\1.png)
+
+## 6.课程大纲链接
+
+可以通过以下链接，或点击左下角“阅读原文”，进入课程主页，查看并获取详细课程大纲：
+
+http://sanyisishu.com/course/phai01/phai01.html
+
+
+
+
+
+
+
